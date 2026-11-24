@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Gather your party, roll your dice and battle across the islands to put an end to a powerful curse once and for all in this roguelike turn-based tactical RPG!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: Dual Core 2.4 GHz / Rec: Dual Core 3.0 GHz+ | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: 2GB VRAM / Rec: 4GB VRAM | Metal-capable GPU |
+| **DirectX** | Version 10 | Version 10 |
+| **Storage** | 1 GB available space | 1 GB available space |
 
 ---
 
